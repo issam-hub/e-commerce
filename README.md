@@ -34,19 +34,16 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [solution](https://www.frontendmentor.io/solutions/ecommerce-landing-page-did-my-best-_zn8gvLm3)
+-   Live Site URL: [live-demo](https://issam-hub.github.io/e-commerce/)
 
 ### Built with
 
--   Semantic HTML5 markup
--   CSS custom properties
+-   html
+-   CSS
 -   Flexbox
 -   CSS Grid
--   Mobile-first workflow
--   [React](https://reactjs.org/) - JS library
--   [Next.js](https://nextjs.org/) - React framework
--   [Styled Components](https://styled-components.com/) - For styles
+- vanilla js
 
 ### What I learned
 
@@ -54,5 +51,5 @@ this project was the most challenging to me, i learned a lot and lot. wow!
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+-   instgram account - [@issam_4real](https://www.instagram.com/issam_4real/)
+-   Frontend Mentor - [@issam-hub](https://www.frontendmentor.io/profile/issam-hub)
